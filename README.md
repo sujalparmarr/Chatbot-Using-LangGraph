@@ -4,3 +4,4 @@ I’ve added features like:
 - Streaming responses  
 - New chat (thread management)  
 - SQLite integration for storing chats  
+ 
